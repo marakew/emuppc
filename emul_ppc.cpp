@@ -1,7 +1,6 @@
 /*
  * the code was take from
- * https://github.com/cebix/macemu.git
- * macemu\SheepShaver\src\emul_ppc\emul_ppc.cpp
+ * https://github.com/cebix/macemu/blob/master/SheepShaver/src/emul_ppc/emul_ppc.cpp
  */
 
 #include <ida.hpp>
