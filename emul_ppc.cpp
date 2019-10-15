@@ -1,3 +1,9 @@
+/*
+ * the code was take from
+ * https://github.com/cebix/macemu.git
+ * macemu\SheepShaver\src\emul_ppc\emul_ppc.cpp
+ */
+
 #include <ida.hpp>
 #include <idp.hpp>
 #include <expr.hpp>
